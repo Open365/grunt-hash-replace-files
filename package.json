@@ -3,9 +3,6 @@
   "description": "Hash passed files and replace these occurrences",
   "version": "0.0.1",
   "homepage": "https://github.com/Open365/grunt-hash-replace-files",
-  "author": {
-    "name": "eyeos"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/Open365/grunt-hash-replace-files.git"
