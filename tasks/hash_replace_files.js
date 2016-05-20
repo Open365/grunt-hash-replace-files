@@ -22,7 +22,7 @@
 module.exports = function (grunt) {
 
 
-	grunt.registerTask('hash_replace_files', 'Hash passed files and replace these occurrences', function () {
+	grunt.registerMultiTask('hash_replace_files', 'Hash passed files and replace these occurrences', function () {
 		var hashFiles = require('hash-files');
 		var fs = require('fs');
 		var path = require('path');
