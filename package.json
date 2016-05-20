@@ -1,7 +1,7 @@
 {
   "name": "grunt-hash-replace-files",
   "description": "Hash passed files and replace these occurrences",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/Open365/grunt-hash-replace-files",
   "repository": {
     "type": "git",
