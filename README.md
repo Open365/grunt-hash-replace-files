@@ -1,6 +1,8 @@
 # grunt-hash-replace-files
 
 > Hash passed files and replace these occurrences
+We've created this library because with filerev we can't hash a whole folder, so that
+all files in that folder are renamed with the same hash.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
